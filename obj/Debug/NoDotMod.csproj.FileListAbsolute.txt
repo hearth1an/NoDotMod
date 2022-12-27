@@ -1,0 +1,15 @@
+C:\Users\Alternate\AppData\Roaming\OuterWildsModManager\OWML\Mods\hearth1an.NoDotMod\default-config.json
+C:\Users\Alternate\AppData\Roaming\OuterWildsModManager\OWML\Mods\hearth1an.NoDotMod\manifest.json
+C:\Users\Alternate\AppData\Roaming\OuterWildsModManager\OWML\Mods\hearth1an.NoDotMod\planets\.gitkeep
+C:\Users\Alternate\AppData\Roaming\OuterWildsModManager\OWML\Mods\hearth1an.NoDotMod\systems\.gitkeep
+C:\Users\Alternate\AppData\Roaming\OuterWildsModManager\OWML\Mods\hearth1an.NoDotMod\translations\.gitkeep
+C:\Users\Alternate\AppData\Roaming\OuterWildsModManager\OWML\Mods\hearth1an.NoDotMod\addon-manifest.json
+C:\Users\Alternate\AppData\Roaming\OuterWildsModManager\OWML\Mods\hearth1an.NoDotMod\NoDotMod.dll
+C:\Users\Alternate\AppData\Roaming\OuterWildsModManager\OWML\Mods\hearth1an.NoDotMod\NoDotMod.pdb
+C:\Users\Alternate\source\repos\NoDotMod\NoDotMod\obj\Debug\NoDotMod.csproj.AssemblyReference.cache
+C:\Users\Alternate\source\repos\NoDotMod\NoDotMod\obj\Debug\NoDotMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alternate\source\repos\NoDotMod\NoDotMod\obj\Debug\NoDotMod.AssemblyInfoInputs.cache
+C:\Users\Alternate\source\repos\NoDotMod\NoDotMod\obj\Debug\NoDotMod.AssemblyInfo.cs
+C:\Users\Alternate\source\repos\NoDotMod\NoDotMod\obj\Debug\NoDotMod.csproj.CoreCompileInputs.cache
+C:\Users\Alternate\source\repos\NoDotMod\NoDotMod\obj\Debug\NoDotMod.dll
+C:\Users\Alternate\source\repos\NoDotMod\NoDotMod\obj\Debug\NoDotMod.pdb

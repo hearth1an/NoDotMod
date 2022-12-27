@@ -1,0 +1,5 @@
+﻿<Project>
+  <PropertyGroup>
+    <OutputPath>$(AppData)\OuterWildsModManager\OWML\Mods\hearth1an.NoDotMod</OutputPath>
+  </PropertyGroup>
+</Project>

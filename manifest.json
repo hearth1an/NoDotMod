@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "NoDotMod.dll",
+  "author": "hearth1an",
+  "name": "NoDotMod",
+  "uniqueName": "hearth1an.NoDotMod",
+  "version": "0.1.0",
+  "owmlVersion": "2.8.0",
+  "dependencies": ["xen.NewHorizons"]
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+xzUaFdYefud5N+AkguVodHXX8mPEYqouJ7XlMYQgUfJbfEtmd9CLHKWmp36VzER+gdmExsy8s0A33J9bdVWBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alternate\\source\\repos\\NoDotMod\\NoDotMod\\NoDotMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alternate\\.nuget\\packages\\harmonyx\\2.5.5\\harmonyx.2.5.5.nupkg.sha512",
+    "C:\\Users\\Alternate\\.nuget\\packages\\json.net.unity3d\\9.0.1\\json.net.unity3d.9.0.1.nupkg.sha512",
+    "C:\\Users\\Alternate\\.nuget\\packages\\mono.cecil\\0.11.4\\mono.cecil.0.11.4.nupkg.sha512",
+    "C:\\Users\\Alternate\\.nuget\\packages\\monomod.runtimedetour\\21.8.19.1\\monomod.runtimedetour.21.8.19.1.nupkg.sha512",
+    "C:\\Users\\Alternate\\.nuget\\packages\\monomod.utils\\21.8.19.1\\monomod.utils.21.8.19.1.nupkg.sha512",
+    "C:\\Users\\Alternate\\.nuget\\packages\\outerwildsgamelibs\\1.1.13.393\\outerwildsgamelibs.1.1.13.393.nupkg.sha512",
+    "C:\\Users\\Alternate\\.nuget\\packages\\owml\\2.8.0\\owml.2.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
