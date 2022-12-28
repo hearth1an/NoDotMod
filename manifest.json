@@ -5,6 +5,5 @@
   "name": "NoDotMod",
   "uniqueName": "hearth1an.NoDotMod",
   "version": "0.1.0",
-  "owmlVersion": "2.8.0",
-  "dependencies": ["xen.NewHorizons"]
+  "owmlVersion": "2.8.0"
 }
